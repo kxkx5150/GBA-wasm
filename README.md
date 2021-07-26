@@ -3,6 +3,8 @@ GBA emulator
 
 <br><br><br><br><br>
 
+Demo  
+https://kxkx5150.github.io/GBA-wasm/
 
 <br><br><br><br><br>
 
@@ -15,7 +17,7 @@ emsdk  1.38.48
 2. node build --opt
 3. npm run webpack
 
-<br><br><br><br><br>
+<br><br><br>
 
 GBA-wasm is based on gba.ninja  
 https://github.com/simon-paris/gba.ninja  
