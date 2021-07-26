@@ -1,0 +1,31 @@
+{
+  "name": "gba.ninja",
+  "version": "1.0.0",
+  "description": "This is an emscripten port of https://github.com/visualboyadvance-m/visualboyadvance-m. It's using custom bindings to get pixel/audio/input/savegame data into & out of the emulator. (as opposed to using emstripten's built in file system and sdl support).",
+  "main": null,
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "jshint": "^2.9.5",
+    "webpack": "^4.4.1",
+    "xml2js": "^0.4.19",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.1.5"
+  },
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon-paris/gba.ninja.git"
+  },
+  "author": "",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/simon-paris/gba.ninja/issues"
+  },
+  "homepage": "https://github.com/simon-paris/gba.ninja#readme"
+}
