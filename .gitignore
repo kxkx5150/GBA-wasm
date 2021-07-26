@@ -1,0 +1,16 @@
+src/wx/builtin-over.h
+src/wx/builtin-xrc.h
+src/wx/cmd-evtable.h
+src/wx/cmdhandlers.h
+src/wx/cmdtab.cpp
+src/wx/wxvbam.xrs
+node_modules
+*.gba
+*.gb
+*.gbc
+emu.js
+emu-wasm.js
+emu-wasm.wasm
+build/app.js
+build/emu.js
+build/sw.js
